@@ -1,12 +1,3 @@
-/*
-	==================================================
-	Workshop #6 (Part-2):
-	==================================================
-	Name   : Khang Nguyen
-	ID     : 122582208
-	Email  : knguyen101@myseneca.ca
-	Section: NCC
-*/
 
 #define _CRT_SECURE_NO_WARNINGS
 
