@@ -1,12 +1,3 @@
-/*
-	==================================================
-	Workshop #6 (Part-2):
-	==================================================
-	Name   : Khang Nguyen
-	ID     : 122582208
-	Email  : knguyen101@myseneca.ca
-	Section: NCC
-*/
 #define MAX_PRODUCT 3
 #define NUM_GRAMS 64
 #define KG_TO_LBS 2.20462
